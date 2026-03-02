@@ -1,5 +1,7 @@
-Hi, I’m @Janasbak
-I’m interested in Low Level Programming and Game Hacking
-How to reach me: Discord = Janasbak
+Hi, I’m Janasbak
+
+I’m into exploiting and reversing stuff, I also like building gui's.
+
+Contact me through discord: Janasbak
 
 
